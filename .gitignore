@@ -9,5 +9,5 @@ x64/
 
 # all .vcxproj extentions
 *.vcxproj
-*.filters
-*.user
+*.vcxproj.user
+*.vcxproj.filters
