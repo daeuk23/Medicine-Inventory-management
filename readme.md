@@ -10,8 +10,8 @@ Nov 3rd ~ Nov 26th 2023 : Individually Ended
 
 ## Currently Updated Features
 -> interface for adding and changing inventory: nov 29th  
--> Change to a more direct interface (Easily understandable): nov 29th
--> Added validation formulas for memory usage ,optimization and residual data erasure: Dec 2
+-> Change to a more direct interface (Easily understandable): nov 29th  
+-> Added validation formulas for memory usage ,optimization and residual data erasure: Dec 2  
 => your welcome for contact me for colaborate using this basic forms.  
 - Email: a24738598@gmail.com  , Phone: 647-879-3598
 
