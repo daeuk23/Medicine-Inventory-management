@@ -21,31 +21,31 @@ Nov 3rd ~ Nov 26th 2023 : Individually Ended
 
 **Aidman**  
 A core assistant file that connects product registration and various functions such as search, storage, and delivery for medicine.  
-[AidMan](Programfiles/AidMan.cpp), [Header](Programfiles/AidMan.h), [Testers](testingfiles/Aidman_test.cpp)
+[AidMan.c](Programfiles/AidMan.cpp), [Header](Programfiles/AidMan.h), [Testers](testingfiles/Aidman_test.cpp)
 
 **Date**  
 A file that handles the date class that makes adjustments through various validations.  
-[Date](Programfiles/Date.cpp), [Header](Programfiles/Date.h), [Testers](testingfiles/Date_test.cpp)
+[Date.c](Programfiles/Date.cpp), [Header](Programfiles/Date.h), [Testers](testingfiles/Date_test.cpp)
 
 **iProduct**  
 Features responsible for input/output interfaces.  
-[iProduct](Programfiles/iProduct.cpp), [Header](Programfiles/iProduct.h), [Testers](testingfiles/iProduct_test.cpp)
+[iProduct.c](Programfiles/iProduct.cpp), [Header](Programfiles/iProduct.h), [Testers](testingfiles/iProduct_test.cpp)
 
 **Item**  
 Store additional data with iProduct's inheritance class Provides status management operations for products.  
-[Item](Programfiles/Item.cpp), [Header](Programfiles/Item.h), [Testers](testingfiles/Item_test.cpp)
+[Item.c](Programfiles/Item.cpp), [Header](Programfiles/Item.h), [Testers](testingfiles/Item_test.cpp)
 
 **Perishable**  
 It is a section that manages certain products inherited from Item Class, and is responsible for classifying shelf life and perishable products.  
-[Perishable](Programfiles/Perishable.cpp), [Header](Programfiles/Perishable.h), [Testers](testingfiles/Perishable_test.cpp)
+[Perishable.c](Programfiles/Perishable.cpp), [Header](Programfiles/Perishable.h), [Testers](testingfiles/Perishable_test.cpp)
 
 **Status**  
 It is functional to handle all **item** inventory and health management helper functions.  
-[Status](Programfiles/Status.cpp), [Header](Programfiles/Status.h), [Testers](testingfiles/Status_test.cpp)
+[Status.c](Programfiles/Status.cpp), [Header](Programfiles/Status.h), [Testers](testingfiles/Status_test.cpp)
 
 **Utils**  
 Additional function for effeciency.  
-[Utils](Programfiles/Utils.cpp), [Header](Programfiles/Utils.h)
+[Utils.c](Programfiles/Utils.cpp), [Header](Programfiles/Utils.h)
 
 ## Compile In remote 
 G++ compiler required  
