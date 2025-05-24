@@ -44,7 +44,7 @@ It is functional to handle all **item** inventory and health management helper f
 [Status](Programfiles/Status.cpp), [Header](Programfiles/Status.h), [Testers](testingfiles/Status_test.cpp)
 
 **Utils**  
-Additional function for effeciency.
+Additional function for effeciency.  
 [Utils](Programfiles/Utils.cpp), [Header](Programfiles/Utils.h)
 
 ## Compile In remote 
