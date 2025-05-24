@@ -47,7 +47,15 @@ It is functional to handle all **item** inventory and health management helper f
 Additional function for effeciency.
 [Utils](Programfiles/Utils.cpp), [Header](Programfiles/Utils.h)
 
-## How to test  
+## Compile In remote 
+G++ compiler required  
+
+```bash
+g++ -Wall -std=c++17 -g -o main main.cpp AidMan.cpp Item.cpp Perishable.cpp Status.cpp Utils.cpp
+```
+Using SSH will be good
+
+## How to test local
 [TestingCodes](testingfiles/)
 Sequence to test my codes.
 
